@@ -1,0 +1,4 @@
+{
+    "shortUrl": "http://yuml.me/edit/2f40c479",
+    "editableUrl": "http://yuml.me/diagram/scruffy/class/edit/[User|-id;-name;-nickname;-email;-createdAt;updateAt]1++-0..*[Message|-id;-createdAt;-content]"
+}
